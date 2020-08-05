@@ -1,0 +1,142 @@
+{
+    "Header": [
+        {
+            "item": "Nosotros",
+            "url": "/about"
+        },
+        {
+            "item": "Actividades",
+            "url": "/activity"
+        },
+        {
+            "item": "Galería",
+            "url": "/gallery"
+        },
+        {
+            "item": "Contacto",
+            "url": "/contact"
+        },
+        {
+            "item": "Ingresar",
+            "url": "/partners",
+            "icon": "fa fa-sign-in"
+        }
+    ],
+    "Footer": {
+        "address": {
+            "title": "Dirección",
+            "content": "Raúl Ramírez 37, San Juan Cosalá, 45820 Jocotepec, Jal.",
+            "location": "https://goo.gl/maps/mcAy8KjGQsvm7vYU6"
+        },
+        "phone": {
+            "title": "Teléfonos",
+            "one": "387 761 0129",
+            "two": "387 761 1034"
+        },
+        "shortcuts": {
+            "title": "Accesos rápidos"
+        },
+        "emergency": {
+            "title": "Ligas de emergencia",
+            "list": [
+                {
+                    "item": "Policia"
+                },
+                {
+                    "item": "Cruz Roja"
+                },
+                {
+                    "item": "Cruz Verder"
+                }
+            ]
+        }
+    },
+    "MainCarousel": [
+        {
+            "item": "El mejor lugar para vivir en la Ribera de Chapala",
+            "url": "/contact",
+            "linkText": "Ver más",
+            "img": "assets/img/Banner.jpg"
+        },
+        {
+            "item": "Increíbles instalaciones para relajarse",
+            "url": "/contact",
+            "linkText": "Ver más",
+            "img": "assets/img/Banner.jpg"
+        }
+    ],
+    "About": {
+        "title": "Acerca de Nosotros",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "mission": {
+            "title": "MISIÓN",
+            "content": "El Fraccionamiento San Juan Cosalá Raquet Club tiene como misión:",
+            "list": [
+                {
+                    "item": "1. Construir un hábitat autosustentable que favorezca el crecimiento personal de sus habitantes, la concordia entre los asociados y el cuidado de la naturaleza que lo rodea."
+                },
+                {
+                    "item": "2. Contribuir con las comunidades que rodean el Fraccionamiento en la construcción de un mundo más justo y más humano."
+                },
+                {
+                    "item": "3. Favorecer la conformación de una cultura que favorezca la sabiduría, la igualdad, el respeto, la paz, el diálogo y la solidaridad entre los que forman la asociación y los que viven en la Ribera de Chapala."
+                }
+            ]
+        },
+        "view": {
+            "title": "VISIÓN",
+            "content": "En los próximos tres años, el Fraccionamiento se distinguirá por:",
+            "list": [
+                {
+                    "item": "1. Su compromiso con la sustentabilidad en el uso del agua, el consumo de energía y la protección del sistema ecológico del Lago de Chapala."
+                },
+                {
+                    "item": "2. La limpieza, el mantenimiento y la sustentabilidad de sus calles su club y su entorno social y ambiental."
+                },
+                {
+                    "item": "3. La realización de construcciones y la conservación de sus terrenos y casas con una perspectiva sustentable y cuidadosa de las relaciones comunitarias."
+                },
+                {
+                    "item": "4. La convivencia cordial y respetuosa entre los asociados."
+                }
+            ]
+        },
+        "objectives": {
+            "title": "OBJETIVOS ESTRATÉGICOS",
+            "list": [
+                {
+                    "item": "1. Afianzar la prestación del servicio del agua en estos años y los futuros con una óptica de largo plazo."
+                },
+                {
+                    "item": "2. Mantener en las mejores condiciones las instalaciones del club, los terrenos de servicio común, los terrenos baldíos y las calles del Fraccionamiento."
+                },
+                {
+                    "item": "3. Asegurar la salud financiera y la razonable y transparente administración de los bienes de la asociación y mantener las cuotas en una relación razonable con la situación económica nacional."
+                },
+                {
+                    "item": "4. Implantar las medidas, previsiones y acciones necesarias para incrementar y mantener la seguridad del Fraccionamiento y de sus habitantes."
+                },
+                {
+                    "item": "5. Establecer una estrategia de cuidado, limpieza y conservación del entorno del fraccionamiento."
+                },
+                {
+                    "item": "6. Fortalecer la comunicación entre los asociados y la relación del Fraccionamiento con las comunidades vecinas, con las organizaciones civiles de la Ribera de Chapala y con las instituciones de los tres niveles de gobierno."
+                }
+            ]
+        }
+    },
+    "Activities": {
+        "title": "Actividades",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "link": "Ver más"
+    },
+    "Gallery": {
+        "title": "Galería",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "link": "Ver más"
+    },
+    "Contact": {
+        "title": "Contacto",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    }
+}
